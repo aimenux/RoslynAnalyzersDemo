@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurlyBrackets.CodeFixes", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurlyBrackets.Package", "CurlyBracketsAnalyzer\CurlyBrackets\CurlyBrackets.Package\CurlyBrackets.Package.csproj", "{27F371EF-E65D-4615-8F2E-BCA9EE6DAF46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurlyBrackets.Tests", "CurlyBracketsAnalyzer\CurlyBrackets\CurlyBrackets.Test\CurlyBrackets.Tests.csproj", "{84A01136-6049-410F-81FB-9EC768219457}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurlyBrackets.Tests", "CurlyBracketsAnalyzer\CurlyBrackets\CurlyBrackets.Tests\CurlyBrackets.Tests.csproj", "{84A01136-6049-410F-81FB-9EC768219457}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurlyBrackets.Vsix", "CurlyBracketsAnalyzer\CurlyBrackets\CurlyBrackets.Vsix\CurlyBrackets.Vsix.csproj", "{901AAE6D-E899-4CC0-A55E-61F787F4F131}"
 EndProject

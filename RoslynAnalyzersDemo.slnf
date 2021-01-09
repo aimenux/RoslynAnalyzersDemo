@@ -3,7 +3,7 @@
     "path": "RoslynAnalyzersDemo.sln",
     "projects": [
       "CurlyBracketsAnalyzer\\CurlyBrackets\\CurlyBrackets.CodeFixes\\CurlyBrackets.CodeFixes.csproj",
-      "CurlyBracketsAnalyzer\\CurlyBrackets\\CurlyBrackets.Test\\CurlyBrackets.Tests.csproj",
+      "CurlyBracketsAnalyzer\\CurlyBrackets\\CurlyBrackets.Tests\\CurlyBrackets.Tests.csproj",
       "CurlyBracketsAnalyzer\\CurlyBrackets\\CurlyBrackets\\CurlyBrackets.csproj",
       "NullEqualityAnalyzer\\NullEquality\\NullEquality.CodeFixes\\NullEquality.CodeFixes.csproj",
       "NullEqualityAnalyzer\\NullEquality\\NullEquality.Tests\\NullEquality.Tests.csproj",
