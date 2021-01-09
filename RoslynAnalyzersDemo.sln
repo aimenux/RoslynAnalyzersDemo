@@ -17,18 +17,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullEquality.Vsix", "NullEq
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CurlyBracketsAnalyzer", "CurlyBracketsAnalyzer", "{C07BB647-7422-428E-8A5E-6B54A0562AFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurlyBrackets", "CurlyBracketsAnalyzer\CurlyBrackets\CurlyBrackets\CurlyBrackets.csproj", "{54F58702-6F7E-4510-B695-7E25E078BF2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurlyBrackets", "CurlyBracketsAnalyzer\CurlyBrackets\CurlyBrackets\CurlyBrackets.csproj", "{54F58702-6F7E-4510-B695-7E25E078BF2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurlyBrackets.CodeFixes", "CurlyBracketsAnalyzer\CurlyBrackets\CurlyBrackets.CodeFixes\CurlyBrackets.CodeFixes.csproj", "{C9392977-08BD-41AF-A8BA-BBC74C3C9D2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurlyBrackets.CodeFixes", "CurlyBracketsAnalyzer\CurlyBrackets\CurlyBrackets.CodeFixes\CurlyBrackets.CodeFixes.csproj", "{C9392977-08BD-41AF-A8BA-BBC74C3C9D2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurlyBrackets.Package", "CurlyBracketsAnalyzer\CurlyBrackets\CurlyBrackets.Package\CurlyBrackets.Package.csproj", "{27F371EF-E65D-4615-8F2E-BCA9EE6DAF46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurlyBrackets.Package", "CurlyBracketsAnalyzer\CurlyBrackets\CurlyBrackets.Package\CurlyBrackets.Package.csproj", "{27F371EF-E65D-4615-8F2E-BCA9EE6DAF46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurlyBrackets.Tests", "CurlyBracketsAnalyzer\CurlyBrackets\CurlyBrackets.Tests\CurlyBrackets.Tests.csproj", "{84A01136-6049-410F-81FB-9EC768219457}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurlyBrackets.Tests", "CurlyBracketsAnalyzer\CurlyBrackets\CurlyBrackets.Tests\CurlyBrackets.Tests.csproj", "{84A01136-6049-410F-81FB-9EC768219457}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurlyBrackets.Vsix", "CurlyBracketsAnalyzer\CurlyBrackets\CurlyBrackets.Vsix\CurlyBrackets.Vsix.csproj", "{901AAE6D-E899-4CC0-A55E-61F787F4F131}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurlyBrackets.Vsix", "CurlyBracketsAnalyzer\CurlyBrackets\CurlyBrackets.Vsix\CurlyBrackets.Vsix.csproj", "{901AAE6D-E899-4CC0-A55E-61F787F4F131}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C6E88377-778F-4B65-BD45-F071232352FB}"
 	ProjectSection(SolutionItems) = preProject
+		.github\workflows\ci.yml = .github\workflows\ci.yml
+		CurlyBracketsAnalyzer\CurlyBracketsAnalyzer.md = CurlyBracketsAnalyzer\CurlyBracketsAnalyzer.md
+		NullEqualityAnalyzer\NullEqualityAnalyzer.md = NullEqualityAnalyzer\NullEqualityAnalyzer.md
 		README.md = README.md
 	EndProjectSection
 EndProject
