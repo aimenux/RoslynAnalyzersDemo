@@ -25,5 +25,5 @@ if (obj is null)
 
 <div style="display: flex; justify-content: space-between">
   <a href="../README.md"> ⬅ Back To Home </a>
-  <a href="../CurlyBracketsAnalyzer/CurlyBracketsAnalyzer.md"> ⬅ Previous </a>
+  <a href="../CurlyBracketsAnalyzer/CurlyBracketsAnalyzer.md"> ➡ Next </a>
 </div>
